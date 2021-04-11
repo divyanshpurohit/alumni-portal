@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0s;
+}
+
+body,html{
+    height: 100%;
+    background-color: #F4F4F4;
+}
+
+.logo-links { 
+    text-decoration: none;
+    color:#F78222 !important;
+}
+
+.logo-links:hover{
+    color: black !important;
+}
+
+.main-row{
+    /* border: 1px solid red; */
+    height:33rem;
+    margin:4rem 8.5rem 0 8.5rem;
+    background-color: white;
+    border-radius: 0.3rem;
+}
+
+.main-col{
+    /* border: 1px solid blue; */
+}
+
+.pic{
+    margin: 0.7rem 0 0.7rem 0.7rem;
+    background-image:url(ncu-signup.jpg);
+    border-radius: 0.3rem;
+
+
+}
+
+.signup-input{
+    padding: 5rem;
+}
+
+.btn-signup{
+    margin-top: 3rem;
+}
+/* footer{
+    background-color: #343A40 !important;
+    margin-top: 20px    ;
+    } */
+
